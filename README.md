@@ -12,11 +12,11 @@ Download the latest version from <a>https://www.python.org/downloads/</a>.
 pip install requests
 pip install bs4
 ```
-3. Clone the repo
+#### 3. Clone the repo
 ```
 https://github.com/codingburgas/2223-otj-10-project-python-web-scraper-HMPetrov20.git
 ```
-4. Run the script in cmd
+#### 4. Run the script in cmd
 ```
 python webScraper.py
 ```
