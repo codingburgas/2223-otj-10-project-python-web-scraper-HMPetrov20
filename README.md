@@ -7,7 +7,7 @@
 #### 1. Install Python 
 Download the latest version from <a>https://www.python.org/downloads/</a>.
 
-#### 2. Add bs4, requests from the cmd
+#### 2. Add bs4 and requests from the cmd
 ```
 pip install requests
 pip install bs4
