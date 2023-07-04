@@ -14,7 +14,7 @@ pip install bs4
 ```
 3. Clone the repo
 ```
-https://github.com/PPDimitrakova20/Sol-Invictus
+https://github.com/codingburgas/2223-otj-10-project-python-web-scraper-HMPetrov20.git
 ```
 4. Run the script in cmd
 ```
